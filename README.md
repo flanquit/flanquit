@@ -5,7 +5,7 @@ I'm a fullstack developer currently living in Harare, Zimbabwe.
 <!-- Connect Badges -->
 <p>
   <a href="https://www.linkedin.com/in/flanquit/">
-    <img src="https://media-exp2.licdn.com/dms/image/C5603AQHasJkd86B7cw/profile-displayphoto-shrink_800_800/0/1557299010949?e=1660780800&v=beta&t=ZbCVhVpIBwr61cEzaGNzYySidrbcwbwFdhYfvROYv5w">
+    <img src="https://media-exp2.licdn.com/dms/image/C5603AQHasJkd86B7cw/profile-displayphoto-shrink_800_800/0/1557299010949?e=1660780800&v=beta&t=ZbCVhVpIBwr61cEzaGNzYySidrbcwbwFdhYfvROYv5w" width=""20%>
   </a>
 </p>
 
