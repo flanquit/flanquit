@@ -30,14 +30,14 @@ I'm a fullstack developer currently living in Harare, Zimbabwe.
   
   <img alt="Javascript" src="https://img.shields.io/badge/Javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
   <img alt="PHP" src="https://img.shields.io/badge/-Php-cc342d?style=for-the-badge&logo=php&logoColor=white" />
-  <img alt="Node" src="https://img.shields.io/badge/-Node-cc342d?style=for-the-badge&logo=node&logoColor=white"/>
+  <img alt="Node" src="https://img.shields.io/badge/-Node-2338B2AC?style=for-the-badge&logo=node&logoColor=white"/>
   
   
   <h5>Technologies</h5>
   
-  <img alt="Rails" src="https://img.shields.io/badge/Rails%20-%23CC0000.svg?&style=for-the-badge&logo=ruby-on-rails&logoColor=white" />
+  <img alt="Laravel" src="https://img.shields.io/badge/Laravel%20-%23CC0000.svg?&style=for-the-badge&logo=laravel&logoColor=white" />
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=for-the-badge&logo=react&logoColor=white" />
-  <img src="https://img.shields.io/badge/redux%20-%23593d88.svg?&style=for-the-badge&logo=redux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Expo%20-%23593d88.svg?&style=for-the-badge&logo=Expo&logoColor=white" />
   <img src="https://img.shields.io/badge/tailwindcss%20-%2338B2AC.svg?&style=for-the-badge&logo=tailwind-css&logoColor=white" />
 
   <img src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white" />
