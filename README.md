@@ -11,10 +11,10 @@ I'm a fullstack developer currently living in Harare, Zimbabwe.
 
 ### ✌️ About Me
 
-- 🌱 I’m currently learning: Node Js
-<!--
-- 📖 I’m currently working on: Nhaka Life & Tazine Eats
--->
+- 🌱 I’m currently learning: Node
+
+- 📖 website : alpham.co.zw
+
 - 📫 How to reach me: support@alpham.co.zw
 
 ### Dev Things
@@ -30,7 +30,7 @@ I'm a fullstack developer currently living in Harare, Zimbabwe.
   
   <img alt="Javascript" src="https://img.shields.io/badge/Javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
   <img alt="PHP" src="https://img.shields.io/badge/-Php-cc342d?style=for-the-badge&logo=php&logoColor=white" />
-  <img alt="Node" src="https://img.shields.io/badge/node-%2314354C.svg?style=for-the-badge&logo=node&logoColor=white"/>
+  <img alt="Node" src="https://img.shields.io/badge/-Node-cc342d?style=for-the-badge&logo=node&logoColor=white"/>
   
   
   <h5>Technologies</h5>
