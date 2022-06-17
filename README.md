@@ -1,13 +1,23 @@
+
 ## 👋 Hello! I'm Alpha (flanquit)
 
 I'm a fullstack developer currently living in Harare, Zimbabwe.
 
 <!-- Connect Badges -->
-<p>
+<div class="row" style="display: flex;">
+  <div class="column" style=" float: left;
+  width: 33.33%;
+  padding: 5px;">
+    
   <a href="https://www.linkedin.com/in/flanquit/">
     <img src="https://media-exp2.licdn.com/dms/image/C5603AQHasJkd86B7cw/profile-displayphoto-shrink_800_800/0/1557299010949?e=1660780800&v=beta&t=ZbCVhVpIBwr61cEzaGNzYySidrbcwbwFdhYfvROYv5w" width="20%">
   </a>
-</p>
+  </div>
+
+
+ <div class="column" style=" float: left;
+  width: 33.33%;
+  padding: 5px;">
 
 ### ✌️ About Me
 
@@ -16,6 +26,10 @@ I'm a fullstack developer currently living in Harare, Zimbabwe.
 - 📖 website : alpham.co.zw
 
 - 📫 How to reach me: support@alpham.co.zw
+  
+  </div>
+  
+  </div>
 
 ### Dev Things
 
