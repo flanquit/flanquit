@@ -21,7 +21,7 @@ I'm a fullstack developer currently living in Harare, Zimbabwe.
 
 ### ✌️ About Me
 
-- 🌱 I’m currently learning: Node
+- 🌱 I’m currently Diving Deep into: React
 
 - 📖 website :  <a href="https://www.alpham.co.zw/"> alpham.co.zw </a>
 
